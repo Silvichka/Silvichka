@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm on my 2d year of studying Computer Science at <br>Polish-Japanese Academy of Informational Technologies.<br>I'm passionate about AI, Data Science and ML.<br>Currently developing my skills in this area.
+I’m a 2nd-year Computer Science student at the Polish-Japanese Academy of Information Technology. I’m passionate about Artificial Intelligence, Machine Learning, and Data Science. Currently, I’m developing my skills through personal projects, research, and hands-on practice in these areas.
 
 
 ## 🌐 Socials:
